@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+/node_modules/
+/public/bower/
+/public/dist/
+=======
 # Logs
 logs
 *.log
@@ -57,3 +62,4 @@ typings/
 # dotenv environment variables file
 .env
 
+>>>>>>> 762cfabf89f29d2f5848e8448b734e159f25f59b
